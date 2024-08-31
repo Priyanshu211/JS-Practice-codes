@@ -1,0 +1,12 @@
+let variable = "345";
+
+// Use Number String to convert the same into another datatype.
+
+
+let changedVariable = Number(variable);
+
+// NULL -> 0
+// string -> NaN Not a Number
+// undefined -> NaN
+
+// we can do the same for boolean -> Boolean

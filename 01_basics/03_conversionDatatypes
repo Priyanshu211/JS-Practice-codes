@@ -10,3 +10,4 @@ let changedVariable = Number(variable);
 // undefined -> NaN
 
 // we can do the same for boolean -> Boolean
+
